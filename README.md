@@ -1,11 +1,15 @@
 [Last updated on 2025.11.25]
 # Awesome Nano Banana Pro 🍌
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/YourUsername/awesome-nano-banana-pro?style=social)](https://github.com/YourUsername/awesome-nano-banana-pro/stargazers)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social)](https://github.com/ZeroLu/awesome-nanbanana-pro/stargazers)
 
 > A curated collection of the **best Nano Banana prompts**, image generation styles, and resources for advanced AI visual experiments.
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model.
+
+## Sponsor: [thesorawatermarkremover.com](https://thesorawatermarkremover.com)
+[<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
+
 
 ## 📖 Table of Contents
 
