@@ -8,7 +8,6 @@
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
 
-Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) or follow me on [X](https://x.com/zerolu_eth) if you want more high quality content like this.
 
 ### Sponsor: [Use these Prompts easily with NanoBanana Pro using AyeCreate AI](http://ayecreate.ai/?utm=zerolu)
 
